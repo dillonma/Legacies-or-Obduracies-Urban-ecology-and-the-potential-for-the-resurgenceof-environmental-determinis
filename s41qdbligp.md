@@ -5,4 +5,4 @@
 
 __Issue:__ As if all people are capable of making location decisions. We know this isn't true, as is evident by the scramble to locate where there are "good" schools.
 __Issue:__ This is a simplistic understanding of geography, _colocation_ does not equate to access.
-__Issue:__ 
+__Issue:__ Polanyi
